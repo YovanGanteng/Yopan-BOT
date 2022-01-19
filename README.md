@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/YopanGanteng/Yopan-Bot
+> cd Yopan-Bot
 > bash install.sh
 > node index.js
 ```
@@ -50,4 +50,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 08122639418 YOPAN BOT
+* Gopay : 08122639418 Yopan-Bot
