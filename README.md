@@ -27,12 +27,14 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
-|       ✅       | PANTUN                            |                    |
+|       ✅       | PANTUN                            |                    
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
 |       ✅       | QUOTES                            |
 |       ✅       | RANDOM PICT                       |
 |       ✅       | LIRIK                             |
+|       ✅       | animepict                         |
+|       ✅       | animepict                         |
 |       ✅       | ALAY                              |
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
 |       ✅       | WIKIPEDIA                         |
