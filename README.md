@@ -1,4 +1,4 @@
-## REUZSC
+## YOPAN BOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -27,13 +27,11 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 | KEADAAN       |               FITUR     |
 | :-----------: | :--------------------------------:  |
-|       ✅       |    PANTUN                         |
-|       ✅       | ANIMEPICT                         |
+|       ✅       | PANTUN                            |                    |
 |       ✅       | STICKER                           |
 |       ✅       | NULIS                             |
 |       ✅       | QUOTES                            |
 |       ✅       | RANDOM PICT                       |
-|       ✅       | ANIMEPICT                         |
 |       ✅       | LIRIK                             |
 |       ✅       | ALAY                              |
 |       ✅       | YT,YTMP3,IG,TWT DOWNLOADER        |
@@ -41,7 +39,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | ARTI NAMA                         |
 |       ✅       | SHOLAT                            |
 |       ✅       | QURAN                             |
-|       ✅       | KAMING SUN                        |
+|       ✅       | COMING SOON                       |
 
 ket : ✅ : aktif
 
@@ -52,4 +50,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 08122639418 YOPAN BOT
